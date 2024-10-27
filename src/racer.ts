@@ -1,2 +1,9 @@
-let message: string = "Hello, TypeScript!";
-console.log(message);
+export interface Racer {
+    team: string;
+    speed: number;
+    accerlerate: () => void;
+    isFuelEmpty: () => boolean;
+}
+
+
+

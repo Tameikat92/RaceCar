@@ -1,3 +1,2 @@
 "use strict";
-let message = "Hello, TypeScript!";
-console.log(message);
+Object.defineProperty(exports, "__esModule", { value: true });
