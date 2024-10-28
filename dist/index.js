@@ -18,3 +18,4 @@ Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./racer"), exports);
 __exportStar(require("./SolarClass"), exports);
 __exportStar(require("./GasCar"), exports);
+__exportStar(require("./racer-functions"), exports);
